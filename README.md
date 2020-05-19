@@ -1,0 +1,2 @@
+# Hybrid-Beamforming
+% This example introduces the basic concept of hybrid beamforming  % and shows how to split the precoding and combining weights using orthogonal matching pursuit algorithm.  % It shows that hybrid beamforming can closely match the performance offered by optimal digital weights.  % This program simulates a 64 x 16 MIMO hybrid beamforming system,  % with a 64-element square array with 4 RF chains on the transmitter side  % and a 16-element square array with 4 RF chains on the receiver side. % Each antenna element can be connected to one or more TR modules.
